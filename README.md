@@ -1,6 +1,6 @@
 ***What is this repo about?***
 
-This repository aims at listing really good Youtube channels that require the attention of CS folks.
+This repository aims at listing some really good Youtube channels that require the attention of CS folks.
 
 
 **Requirements for the channels to be in this list**:
