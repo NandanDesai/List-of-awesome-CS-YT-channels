@@ -15,7 +15,7 @@ Here, the word "focus" may seem ambigous. What I mean by it is that the channels
 
 **The list**
 
-*Here is the list of some really good Youtube channels that produce some awesome Computer Science related content and some of them need more recognition than they are currently getting. The list is in no particular order.*
+*Here is the list. some of the channels need more recognition than they are currently getting. The list is in no particular order.*
 
 *  [DFIR.Science](https://www.youtube.com/user/dforensics):
 This channel is mostly related to security and forensics. They post tutorials and tech talks.
