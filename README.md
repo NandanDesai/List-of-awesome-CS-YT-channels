@@ -11,7 +11,7 @@ This repository aims at listing some really good Youtube channels that require t
 
 Here, the word "focus" may seem ambigous. What I mean by it is that the channels may contain a few vlogs or unboxing videos but the main theme of their channel should be to produce Computer Science related content.
 
-**Note**: If you think that there are other channels that produce really good Computer Science content and they need more recognition, then don't hesitate to send a pull request. If you think that some of the channels should not have place in this list, then open a new issue. 
+**Note**: If you think that there are other channels that produce really good Computer Science content and they need more recognition, then don't hesitate to send a pull request. If you think that some of the channels should not have a place in this list, then open a new issue. 
 
 **The list**
 
